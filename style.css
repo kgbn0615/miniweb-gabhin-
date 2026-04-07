@@ -1,0 +1,18 @@
+nav{background-color: #55ff4c;}
+
+header{background-color: olive;
+text-align: center;}
+
+section{background-color: #9f9f9f;}
+
+
+footer{background-color: #aeddff;
+text-align: center;}
+
+article{background-color: #c5ccff;}
+
+a{color: white;}
+
+h1 {color: white;}
+
+* {font-family:'Courier New', Courier, monospace; color: blue;}

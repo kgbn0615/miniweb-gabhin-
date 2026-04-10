@@ -1,13 +1,19 @@
+* {font-family:'Courier New', Courier, monospace; color: blue;}
+
+
 nav{background-color: #55ff4c;}
 
 header{background-color: olive;
-text-align: center;}
+text-align: center; 
+padding:10px;}
 
 section{background-color: #9f9f9f;}
 
 
 footer{background-color: #aeddff;
-text-align: center;}
+text-align: center;
+padding:10px;}
+
 
 article{background-color: #c5ccff;}
 
@@ -15,4 +21,10 @@ a{color: white;}
 
 h1 {color: white;}
 
-* {font-family:'Courier New', Courier, monospace; color: blue;}
+h2 {color:darkolivegreen;}
+
+h4{color:white;}
+
+.foot-p{color:white;}
+
+header p {color:white;}

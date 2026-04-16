@@ -1,13 +1,33 @@
 * {font-family:'Courier New', Courier, monospace; color: blue;}
 
+body{margin: 0;}
 
-nav{background-color: #55ff4c;}
+
+nav{background-color: #2e2e2e;}
+
+
+
+nav ul{list-style:none;
+text-align: center;
+padding: 20px;
+margin-bottom: 0;}
+
+nav ul li{display:inline;
+margin:15px;}
+
+
+nav a{text-decoration: none;}
+
+nav a:hover{text-decoration: underline;}
+
 
 header{background-color: olive;
 text-align: center; 
-padding:10px;}
+padding:10px;
+padding-bottom: 30px;}
 
-section{background-color: #9f9f9f;}
+section{background-color: #e7edcb;
+padding: 20px;}
 
 
 footer{background-color: #aeddff;
@@ -15,7 +35,11 @@ text-align: center;
 padding:10px;}
 
 
-article{background-color: #c5ccff;}
+article{background-color: #ffffff;
+padding: 20px;
+margin-bottom: 25;
+border-radius: 30px;
+box-shadow:0px 0px 10px 0px rgba(44,27,255,0.61);}
 
 a{color: white;}
 
